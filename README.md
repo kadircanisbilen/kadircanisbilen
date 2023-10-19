@@ -1,5 +1,5 @@
 ![Header](./github-header-image_1.png)
-<h2 align="center">Hi 👋</h2>
+<h2 align="center">Hi 👋, I am Kadircan</h2>
 <h3 align="center">A Java developer from Turkiye</h3>
 
 - 🔭 I’m currently working on **full-stack development with Spring Boot and React**
