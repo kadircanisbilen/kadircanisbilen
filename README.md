@@ -3,9 +3,9 @@
 <h2 align="center">A Java developer from Turkiye</h2>
 <h3 align="center">You can also find my old projects in my organization : https://github.com/OldRepositoriesByKadircanIsbilen</h3>
 
-- 🔭 I’m currently working on **full-stack development with Spring Boot and React**
+- 🔭 I’m currently working on **full-stack development with Spring Boot and Angular**
 
-- 🌱 I’m currently learning **JavaScript,React**
+- 🌱 I’m currently learning **Angular, Typescript**
 
 - 💬 Ask me about **Java, Spring Boot, Backend Architecture**
 
