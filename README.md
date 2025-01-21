@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **isbilen.ka@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3S8I2Nt](http://bit.ly/3S8I2Nt)
+- 📄 Know about my experiences [http://bit.ly/3CkoNLt](http://bit.ly/3CkoNLt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
